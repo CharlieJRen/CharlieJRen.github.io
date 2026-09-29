@@ -1,3 +1,3 @@
-# Charlie Ren · Academic Homepage
+# Charlie Ren academic homepage
 
-Bilingual academic homepage for Charlie Ren (任君), hosted with GitHub Pages.
+Static export prepared for GitHub Pages.
